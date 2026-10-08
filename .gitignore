@@ -1,0 +1,12 @@
+# Archivos generados por NetBeans y Apache Ant
+/build/
+/dist/
+/nbproject/private/
+
+# Archivos compilados
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+*~
